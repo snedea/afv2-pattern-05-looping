@@ -599,7 +599,7 @@ This pattern has been validated against `validate_workflow.py` with the followin
 
 ## Additional Resources
 
-- **Pattern Library:** [Context Foundry AFv2 Patterns](https://github.com/context-foundry/context-foundry/tree/main/extensions/flowise/templates/afv2-patterns)
+- **Pattern Library:** [Context Foundry AFv2 Patterns](https://github.com/snedea/afv2-patterns-index)
 - **Pattern #5 Repository:** https://github.com/snedea/afv2-pattern-05-looping
 - **Flowise Documentation:** https://docs.flowiseai.com/
 - **AgentFlow v2 Specification:** [AFv2 Docs](https://docs.flowiseai.com/agentflows)
